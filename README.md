@@ -1,6 +1,3 @@
-Here’s a comprehensive README template ready for you to paste into your GitHub repository. This template includes build instructions, design choices, and dependencies.
-
-```markdown
 # Rule Engine with AST
 
 ## Overview
@@ -158,5 +155,3 @@ npm test
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-```
